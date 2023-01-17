@@ -9,8 +9,8 @@ Couche présentation : gère la conversion des données pour qu'elles soient com
 Couche application : gère les interactions avec les applications réseau.
 Les numéros de ports sont utilisés pour identifier les applications spécifiques à la couche transport, comme le port 80 pour HTTP et le port 22 pour SSH.
 
-Un proxy reverse est un serveur qui agit en tant que serveur intermédiaire pour les demandes de clients. Il est souvent utilisé pour améliorer les performances et la sécurité.
 
+Un proxy inverse est un type de serveur, habituellement placé en frontal de serveurs web. Contrairement au serveur proxy qui permet à un utilisateur d'accéder au réseau Internet, le proxy inverse permet à un utilisateur d'Internet d'accéder à des serveurs internes
 Un proxy est un serveur qui agit en tant qu'intermédiaire pour les demandes de clients en se faisant passer pour un autre serveur. Il est souvent utilisé pour filtrer les demandes et améliorer la sécurité.
 
 La DMZ (zone démilitarisée) est une sous-réseau qui est isolé du reste du réseau pour des raisons de sécurité. Les serveurs dans la DMZ sont exposés à Internet et peuvent être accessibles depuis l'extérieur.
