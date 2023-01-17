@@ -31,7 +31,7 @@ Le BIOSest un logiciel qui se trouve sur la carte mère d'un ordinateur qui perm
 L’UEFI est une amélioration du BIOS. UEFI signifie Unified Extensible Firmware Interface. 
 --
 
-Transmission asynchrone : une transmission asynchrone est un mode de transmission où les données sont envoyées sans attendre une confirmation de réception. Cela permet un débit plus élevé mais avec une fiabilité moins élevée.
+Transmission asynchrone : une transmission asynchrone est un mode de transmission où les données sont envoyées sans attendre une confirmation de réception. Cela permet une fiabilité moins élevée mais avec un débit plus élevé.
 Transmission synchrone : une transmission synchrone est un mode de transmission où les données sont envoyées en attendre une confirmation de réception. Cela permet une fiabilité plus élevée mais avec un débit moins élevé.
 --
 
@@ -56,7 +56,7 @@ LDAP (Lightweight Directory Access Protocol) : est un protocole de réseau qui p
 ICMP (Internet Control Message Protocol) : est un protocole de réseau qui permet de gérer les messages d'erreur et les messages de contrôle pour les communications réseau.
 
 POP (Post Office Protocol) : est un protocole de réseau qui permet de récupérer les courriels d'un serveur de messagerie.
-
+(La principale différence entre eux est que POP télécharge les messages sur un ordinateur local et les supprime du serveur, tandis qu'IMAP permet de gérer les messages directement sur le serveur sans les télécharger.)
 IMAP (Internet Mail Access Protocol) : est un protocole de réseau similaire à POP qui permet de récupérer les courriels d'un serveur de messagerie.
 
 SMTP (Simple Mail Transfer Protocol) : est un protocole de réseau qui permet de transférer les courriels entre les serveurs de messagerie.
