@@ -1,0 +1,122 @@
+Le modèle OSI (Open Systems Interconnection) est un modèle de référence pour la communication de réseau. Il définit 7 couches de protocoles, chacune ayant des fonctions spécifiques :
+
+Couche physique : gère les aspects physiques de la communication, comme les connecteurs et les câbles.
+Couche de liaison de données : gère l'accès au support de transmission et la détection d'erreurs.
+Couche réseau : gère l'adressage et la routage des paquets de données. Les protocoles courants sont OSPF (Open Shortest Path First) et RIP (Routing Information Protocol).
+Couche de transport : gère la fiabilité de la transmission de données en garantissant la livraison des paquets. Les protocoles courants sont TCP (Transmission Control Protocol) et UDP (User Datagram Protocol).
+Couche session : gère la création, la gestion et la suppression des sessions de communication.
+Couche présentation : gère la conversion des données pour qu'elles soient compatibles entre les systèmes.
+Couche application : gère les interactions avec les applications réseau.
+Les numéros de ports sont utilisés pour identifier les applications spécifiques à la couche transport, comme le port 80 pour HTTP et le port 22 pour SSH.
+
+Un proxy reverse est un serveur qui agit en tant que serveur intermédiaire pour les demandes de clients. Il est souvent utilisé pour améliorer les performances et la sécurité.
+
+Un proxy est un serveur qui agit en tant qu'intermédiaire pour les demandes de clients en se faisant passer pour un autre serveur. Il est souvent utilisé pour filtrer les demandes et améliorer la sécurité.
+
+La DMZ (zone démilitarisée) est une sous-réseau qui est isolé du reste du réseau pour des raisons de sécurité. Les serveurs dans la DMZ sont exposés à Internet et peuvent être accessibles depuis l'extérieur.
+
+Une LAN (Local Area Network) est un réseau local qui relie des ordinateurs et des dispositifs dans un même lieu physique.
+
+Un VPN (Virtual Private Network) est un réseau privé virtuel qui permet de connecter des ordinateurs ou des réseaux distants de manière sécurisée.
+
+MySQL : est un système de gestion de base de données relationnelle (SGBDR) qui permet de stocker, de gérer et de manipuler des données. Il est souvent utilisé pour les sites web et les applications qui nécessitent un accès à des données structurées.
+--
+Le BIOSest un logiciel qui se trouve sur la carte mère d'un ordinateur qui permet de configurer les paramètres de démarrage et d'accéder aux périphériques de l'ordinateur
+L’UEFI est une amélioration du BIOS. UEFI signifie Unified Extensible Firmware Interface. 
+--
+
+Transmission asynchrone : une transmission asynchrone est un mode de transmission où les données sont envoyées sans attendre une confirmation de réception. Cela permet un débit plus élevé mais avec une fiabilité moins élevée.
+Transmission synchrone : une transmission synchrone est un mode de transmission où les données sont envoyées en attendre une confirmation de réception. Cela permet une fiabilité plus élevée mais avec un débit moins élevé.
+--
+
+Les principaux protocoles Cisco sont :
+
+OSPF (Open Shortest Path First) est un protocole de routage qui utilise l'algorithme de Bellman-Ford pour déterminer le meilleur chemin vers une destination. Il est souvent utilisé dans les réseaux locaux étendus (LAN) et les réseaux privés virtuels (VPN).
+RIP (Routing Information Protocol) est un protocole de routage qui utilise l'algorithme de distance-vector pour déterminer le meilleur chemin vers une destination. Il est souvent utilisé dans les petits réseaux locaux (LAN) et dans les réseaux sans fil (WLAN).
+EIGRP (Enhanced Interior Gateway Routing Protocol) : est un protocole de routage propriétaire de Cisco qui utilise un algorithme hybride pour déterminer le meilleur chemin vers une destination. Il est souvent utilisé pour connecter des réseaux distants.*
+
+-- Autres protocoles : 
+
+BGP (Border Gateway Protocol) : est un protocole de routage utilisé pour connecter des réseaux autonomes (AS) entre eux. Il est souvent utilisé pour connecter des réseaux d'entreprise à des fournisseurs de services Internet.
+
+SNMP (Simple Network Management Protocol) est un protocole de gestion de réseau qui permet à un administrateur de surveiller et de gérer les équipements réseau à distance. Il est souvent utilisé pour surveiller les performances et les erreurs des équipements réseau.
+
+HSRP (Hot Standby Router Protocol) : est un protocole de réseau qui permet de mettre en place un groupe de routeurs actifs et de secours pour assurer la continuité des services réseau en cas de panne d'un des routeurs.
+
+VRRP (Virtual Router Redundancy Protocol) : est un protocole de réseau similaire à HSRP qui permet de mettre en place un groupe de routeurs virtuels pour assurer la continuité des services réseau en cas de panne d'un des routeurs.
+
+LDAP (Lightweight Directory Access Protocol) : est un protocole de réseau qui permet de gérer les informations d'annuaire, comme les utilisateurs, les groupes et les objets de l'annuaire.
+
+ICMP (Internet Control Message Protocol) : est un protocole de réseau qui permet de gérer les messages d'erreur et les messages de contrôle pour les communications réseau.
+
+POP (Post Office Protocol) : est un protocole de réseau qui permet de récupérer les courriels d'un serveur de messagerie.
+
+IMAP (Internet Mail Access Protocol) : est un protocole de réseau similaire à POP qui permet de récupérer les courriels d'un serveur de messagerie.
+
+SMTP (Simple Mail Transfer Protocol) : est un protocole de réseau qui permet de transférer les courriels entre les serveurs de messagerie.
+
+TFTP (Trivial File Transfer Protocol) : est un protocole de réseau simplifié pour transférer des fichiers.
+
+SIP (Session Initiation Protocol) : est un protocole de réseau qui permet de mettre en place, de modifier et de terminer les sessions de communication, comme les appels téléphoniques et les vidéoconférences.
+
+RDP (Remote Desktop Protocol) : est un protocole de réseau qui permet d'accéder à un ordinateur à distance.
+
+NTP (Network Time Protocol) : est un protocole de réseau qui permet de synchroniser l'horloge des ordinateurs dans un réseau.
+
+SSH (Secure Shell) : est un protocole de réseau qui permet de se connecter à un ordinateur à distance en utilisant une connexion sécurisée.
+
+HTTP (Hypertext Transfer Protocol) : est un protocole de réseau qui permet de transférer les données sur Internet pour les pages web.
+
+FTP (File Transfer Protocol) : est un protocole de réseau qui permet de transférer des fichiers entre ordinateurs.
+
+TCP (Transmission Control Protocol) : est un protocole de réseau qui garantit la fiabilité de la transmission des données en utilisant des numéros de séquence et des accusés de réception.
+
+UDP (User Datagram Protocol) : est un protocole de réseau qui ne garantit pas la fiabilité de la transmission des données mais est plus rapide
+
+--
+Normes de chiffrement:
+Les normes de chiffrement sont des algorithmes utilisés pour protéger les données en les chiffrant. Il existe de nombreuses normes de chiffrement, comme AES (Advanced Encryption Standard), RSA et SSL (Secure Sockets Layer) / TLS (Transport Layer Security). Ces normes permettent de sécuriser les données en transit et en repos.
+
+--
+
+Numéro de port : 
+
+HTTP (Hypertext Transfer Protocol) : port 80
+HTTPS (HTTP Secure) : port 443
+FTP (File Transfer Protocol) : port 21 (commandes) et 20 (transfert de données)
+SSH (Secure Shell) : port 22
+Telnet : port 23
+DNS (Domain Name System) : port 53
+DHCP (Dynamic Host Configuration Protocol) : port 67 (serveur) et 68 (client)
+SNMP (Simple Network Management Protocol) : port 161 (requêtes) et 162 (alertes)
+SMTP (Simple Mail Transfer Protocol) : port 25
+POP3 (Post Office Protocol version 3) : port 110
+IMAP (Internet Mail Access Protocol) : port 143
+LDAP (Lightweight Directory Access Protocol) : port 389
+Kerberos : port 88
+NTP (Network Time Protocol) : port 123
+-
+RDP (Remote Desktop Protocol) : port 3389
+RSH (Remote Shell) : port 514
+SMB (Server Message Block) : port 445
+SQL (Structured Query Language) : port 1433
+VNC (Virtual Network Computing) : ports 5900-5903
+NFS (Network File System) : port 2049
+SIP (Session Initiation Protocol) : port 5060
+RTP (Real-time Transport Protocol) : ports 16384-32767
+IPSec (Internet Protocol Security) : ports 500 et 4500
+PPTP (Point-to-Point Tunneling Protocol) : port 1723
+L2TP (Layer 2 Tunneling Protocol) : port 1701
+-
+SOCKS : port 1080
+BitTorrent : port 6881-6889
+TFTP (Trivial File Transfer Protocol) : port 69
+NTP (Network Time Protocol) : port 123
+SCP (Secure Copy Protocol) : port 22
+RSYNC : port 873
+Syslog : port 514
+SMPP (Short Message Peer-to-Peer) : port 2775
+MySQL : port 3306
+PostgreSQL : port 5432
+MongoDB : port 27017
+-
