@@ -83,6 +83,9 @@ UDP (User Datagram Protocol) : est un protocole de réseau qui ne garantit pas l
 Normes de chiffrement:
 Les normes de chiffrement sont des algorithmes utilisés pour protéger les données en les chiffrant. Il existe de nombreuses normes de chiffrement, comme AES (Advanced Encryption Standard), RSA et SSL (Secure Sockets Layer) / TLS (Transport Layer Security). Ces normes permettent de sécuriser les données en transit et en repos.
 
+Chiffrement Asymétrique : RSA, DSA... === Clé de chiffrement / clé session
+Chiffrement Symétrique : AES, DES... === Clé publique ET privé
+Fonction de hashage : SHA 3, BLAKE3, MD5...
 --
 
 Numéro de port : 
