@@ -17,6 +17,10 @@ La DMZ (zone démilitarisée) est une sous-réseau qui est isolé du reste du r�
 
 Une LAN (Local Area Network) est un réseau local qui relie des ordinateurs et des dispositifs dans un même lieu physique.
 
+Un VLAN (Virtual LAN) est une méthode de segmentation de réseau qui permet de diviser un réseau physique en plusieurs réseaux virtuels logiques. 
+
+WAN (Wide Area Network) est un terme générique désignant un réseau informatique qui couvre une grande zone géographique. On peut dire que Internet est un grand type de WAN
+
 Un VPN (Virtual Private Network) est un réseau privé virtuel qui permet de connecter des ordinateurs ou des réseaux distants de manière sécurisée.
 
 MySQL : est un système de gestion de base de données relationnelle (SGBDR) qui permet de stocker, de gérer et de manipuler des données. Il est souvent utilisé pour les sites web et les applications qui nécessitent un accès à des données structurées.
