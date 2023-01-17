@@ -14,6 +14,8 @@ Un proxy reverse est un serveur qui agit en tant que serveur intermédiaire pour
 Un proxy est un serveur qui agit en tant qu'intermédiaire pour les demandes de clients en se faisant passer pour un autre serveur. Il est souvent utilisé pour filtrer les demandes et améliorer la sécurité.
 
 La DMZ (zone démilitarisée) est une sous-réseau qui est isolé du reste du réseau pour des raisons de sécurité. Les serveurs dans la DMZ sont exposés à Internet et peuvent être accessibles depuis l'extérieur.
+Les serveurs et les périphériques qui se trouvent dans une DMZ sont protégés par un pare-feu qui les sépare des réseaux internes de l'entreprise.
+Cela permet de limiter les risques de sécurité en cas de compromission d'un serveur ou d'un périphérique de la DMZ, car les attaquants ne peuvent pas accéder aux autres parties du réseau.
 
 Une LAN (Local Area Network) est un réseau local qui relie des ordinateurs et des dispositifs dans un même lieu physique.
 
