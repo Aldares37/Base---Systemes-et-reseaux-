@@ -54,7 +54,7 @@ HSRP (Hot Standby Router Protocol) : est un protocole de réseau qui permet de m
 
 VRRP (Virtual Router Redundancy Protocol) : est un protocole de réseau similaire à HSRP qui permet de mettre en place un groupe de routeurs virtuels pour assurer la continuité des services réseau en cas de panne d'un des routeurs.
 
-LDAP (Lightweight Directory Access Protocol) : est un protocole de réseau qui permet de gérer les informations d'annuaire, comme les utilisateurs, les groupes et les objets de l'annuaire.
+LDAP (Lightweight Directory Access Protocol) : est un protocole de réseau qui permet de gérer les informations d'annuaire, comme les utilisateurs, les groupes et les objets de l'annuaire. on peut dire que LDAP agit comme une base de données pour stocker et gérer les informations d'identification des utilisateurs et d'autres informations relatives à l'annuaire.
 
 ICMP (Internet Control Message Protocol) : est un protocole de réseau qui permet de gérer les messages d'erreur et les messages de contrôle pour les communications réseau.
 
