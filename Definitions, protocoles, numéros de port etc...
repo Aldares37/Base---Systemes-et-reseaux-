@@ -7,7 +7,10 @@ Couche de transport : gère la fiabilité de la transmission de données en gara
 Couche session : gère la création, la gestion et la suppression des sessions de communication.
 Couche présentation : gère la conversion des données pour qu'elles soient compatibles entre les systèmes.
 Couche application : gère les interactions avec les applications réseau.
+
 Les numéros de ports sont utilisés pour identifier les applications spécifiques à la couche transport, comme le port 80 pour HTTP et le port 22 pour SSH.
+
+RAID (Redundant Array of Inexpensive Disks) est un système de stockage de données qui utilise plusieurs disques durs pour améliorer les performances et la sécurité des données
 
 
 Un proxy inverse est un type de serveur, habituellement placé en frontal de serveurs web. Contrairement au serveur proxy qui permet à un utilisateur d'accéder au réseau Internet, le proxy inverse permet à un utilisateur d'Internet d'accéder à des serveurs internes
