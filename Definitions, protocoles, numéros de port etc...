@@ -26,6 +26,12 @@ Un VLAN (Virtual LAN) est une méthode de segmentation de réseau qui permet de 
 
 WAN (Wide Area Network) est un terme générique désignant un réseau informatique qui couvre une grande zone géographique. On peut dire que Internet est un grand type de WAN
 
+Une adresse MAC (Media Access Control) est un identifiant unique de 48 bits assigné à chaque carte réseau.
+
+L'IP correspond à un numéro d'identification, qui est attribué à tout appareil connecté à un réseau informatique.
+
+Le DHCP (Dynamic Host Configuration Protocol) est un protocole réseau dont le rôle est d’assurer la configuration automatique des paramètres IP
+
 Un VPN (Virtual Private Network) est un réseau privé virtuel qui permet de connecter des ordinateurs ou des réseaux distants de manière sécurisée.
 
 MySQL : est un système de gestion de base de données relationnelle (SGBDR) qui permet de stocker, de gérer et de manipuler des données. Il est souvent utilisé pour les sites web et les applications qui nécessitent un accès à des données structurées.
@@ -43,6 +49,24 @@ Les principaux protocoles Cisco sont :
 OSPF (Open Shortest Path First) est un protocole de routage qui utilise l'algorithme de Bellman-Ford pour déterminer le meilleur chemin vers une destination. Il est souvent utilisé dans les réseaux locaux étendus (LAN) et les réseaux privés virtuels (VPN).
 RIP (Routing Information Protocol) est un protocole de routage qui utilise l'algorithme de distance-vector pour déterminer le meilleur chemin vers une destination. Il est souvent utilisé dans les petits réseaux locaux (LAN) et dans les réseaux sans fil (WLAN).
 EIGRP (Enhanced Interior Gateway Routing Protocol) : est un protocole de routage propriétaire de Cisco qui utilise un algorithme hybride pour déterminer le meilleur chemin vers une destination. Il est souvent utilisé pour connecter des réseaux distants.*
+
+Autre termes : 
+
+ITIL est un ensemble d'ouvrages recensant les bonnes pratiques du management du système d'information.
+
+La CNIL (Commission Nationale de l'Informatique et des Libertés) est une autorité administrative indépendante française qui a pour mission de protéger les droits et libertés des personnes en matière de traitement de données à caractère personnel. Elle veille notamment à la conformité des traitements de données avec la réglementation en vigueur, notamment le RGPD (Règlement Général sur la Protection des Données).
+
+Le RGPD (Règlement général sur la protection des données) est un règlement de l'Union Européenne qui a pour objectif de protéger les droits et les libertés des personnes en matière de traitement de données à caractère personnel. Il s'applique à toutes les entreprises qui traitent des données personnelles, quelle que soit leur taille ou leur activité. Il établit des règles strictes pour la collecte, l'utilisation, la conservation et la transmission des données personnelles.
+
+MTBF (Mean Time Between Failures) est un indicateur de fiabilité qui mesure la durée moyenne entre deux pannes d'un équipement ou d'un système. 
+
+L'ICMP (Internet Control Message Protocol) est un protocole de la couche réseau utilisé par les périphériques réseau pour diagnostiquer les problèmes de communication du réseau. L'ICMP est principalement utilisé pour déterminer si les données atteignent ou non leur destination en temps voulu.
+-
+En Full duplex, les données peuvent être transmises dans les deux sens simultanément
+En Half duplex, les données ne peuvent être transmises dans un seul sens à la fois
+
+Le routage statique est une méthode où les routes sont configurées manuellement sur chaque routeur,
+Le routage dynamique est une méthode ou les routes sont automatiquement ajoutées ou mises à jour en fonction des changements dans le réseau.
 
 -- Autres protocoles : 
 
