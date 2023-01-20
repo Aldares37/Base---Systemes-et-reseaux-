@@ -36,13 +36,33 @@ Un VPN (Virtual Private Network) est un réseau privé virtuel qui permet de con
 
 MySQL : est un système de gestion de base de données relationnelle (SGBDR) qui permet de stocker, de gérer et de manipuler des données. Il est souvent utilisé pour les sites web et les applications qui nécessitent un accès à des données structurées.
 --
-Le BIOSest un logiciel qui se trouve sur la carte mère d'un ordinateur qui permet de configurer les paramètres de démarrage et d'accéder aux périphériques de l'ordinateur
-L’UEFI est une amélioration du BIOS. UEFI signifie Unified Extensible Firmware Interface. 
---
+La fonction principale du BIOS et UEFI est de démarrer le systeme d'exploitation.
+Le BIOS est un logiciel qui se trouve sur la carte mère d'un ordinateur qui permet de configurer les paramètres de démarrage et d'accéder aux périphériques de l'ordinateur
+L’UEFI est une amélioration du BIOS. UEFI signifie Unified Extensible Firmware Interface. Il permet de faire fonctionner des disques de plus de TO, améliore la sécurité, concu pour les systemes en 64 bits
 
+x86-64 permet à un processeur d’être compatible avec les anciens logiciels 32 bits en même temps que les nouveau logiciels sur 64 bits
+
+--
+L’hyperviseur de type 1 est un hyperviseur s’exécutant directement sur la plateforme matérielle (exemple Proxmox).
+L’hyperviseur de type 2 est un hyperviseur s’exécutant par dessus un système d’exploitation invité.
+--
 Transmission asynchrone : une transmission asynchrone est un mode de transmission où les données sont envoyées sans attendre une confirmation de réception. Cela permet une fiabilité moins élevée mais avec un débit plus élevé.
 Transmission synchrone : une transmission synchrone est un mode de transmission où les données sont envoyées en attendre une confirmation de réception. Cela permet une fiabilité plus élevée mais avec un débit moins élevé.
 --
+Load balancing: Repartiteur de charge de travail d'un serveur
+Snapshot : C’est un instantanné de la configuration d’une machine virtuelle à un instant T. Cela permet de remédier à une erreur, en revenant à cet instant précis.
+sda2: premier disque et deuxieme partition; sdb1: deuxieme disque, 1er partition
+WDS et MDT: Service permettant d'effectuer le deploiement d'image
+WSUS permet aux administrateurs informatiques de déployer les dernières mises à jour de produits Microsof au sein d'un parc informatique.
+Une autorité de certification : attestent de l’identité de celui qui les présentera
+Un certificat autosigné est un certificat de clé publique qu'un utilisateur émet en son propre nom, par opposition à un certificat émis par une autorité de certification
+PKI : C’est une Infrastructure à clefs publiques, composée d’une autorité de certification, d’une autorité d’enregistrement et d’une autorité de dépôt.
+
+La PKI a pour rôle de délivrer des certificats numériques, permettant d’entreprendre des opérations cryptographique
+
+C’est une Infrastructure à clefs publiques, composée d’une autorité de certification, d’une autorité d’enregistrement et d’une autorité de dépôt.
+
+La PKI a pour rôle de délivrer des certificats numériques, permettant d’entreprendre des opérations cryptographiques.
 
 Les principaux protocoles Cisco sont :
 
