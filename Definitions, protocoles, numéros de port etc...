@@ -80,7 +80,7 @@ Le RGPD (Règlement général sur la protection des données) est un règlement 
 
 MTBF (Mean Time Between Failures) est un indicateur de fiabilité qui mesure la durée moyenne entre deux pannes d'un équipement ou d'un système. 
 
-Le SLA (Service Level Agreement) est un contrat spécifiant l’ensemble des services que le prestataire s’engage à fournir au client.
+Le SLA (Service Level Agreement) est un contrat spécifiant l’ensemble des services que le prestataire s’engage à fournir au client.(document qui définit la qualité de service, prestation prescrite entre un fournisseur de service et un client)
 
 L'ICMP (Internet Control Message Protocol) est un protocole de la couche réseau utilisé par les périphériques réseau pour diagnostiquer les problèmes de communication du réseau. L'ICMP est principalement utilisé pour déterminer si les données atteignent ou non leur destination en temps voulu.
 -
