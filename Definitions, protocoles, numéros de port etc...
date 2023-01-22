@@ -46,8 +46,8 @@ x86-64 permet à un processeur d’être compatible avec les anciens logiciels 3
 L’hyperviseur de type 1 est un hyperviseur s’exécutant directement sur la plateforme matérielle (exemple Proxmox).
 L’hyperviseur de type 2 est un hyperviseur s’exécutant par dessus un système d’exploitation invité.
 --
-Transmission asynchrone : une transmission asynchrone est un mode de transmission où les données sont envoyées sans attendre une confirmation de réception. Cela permet une fiabilité moins élevée mais avec un débit plus élevé.
-Transmission synchrone : une transmission synchrone est un mode de transmission où les données sont envoyées en attendre une confirmation de réception. Cela permet une fiabilité plus élevée mais avec un débit moins élevé.
+Transmission asynchrone : Dans la transmission synchrone, les données circulent en mode duplex sous forme de blocs ou de trames. (visio, conv telephonique...)
+Transmission synchrone : Dans la transmission asynchrone, les données circulent en mode semi-duplex, 1 octet ou un caractère à la fois. (forums, lettre...)
 --
 Load balancing: Repartiteur de charge de travail d'un serveur
 Snapshot : C’est un instantanné de la configuration d’une machine virtuelle à un instant T. Cela permet de remédier à une erreur, en revenant à cet instant précis.
