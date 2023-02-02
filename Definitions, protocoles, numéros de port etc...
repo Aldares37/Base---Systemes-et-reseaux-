@@ -12,11 +12,15 @@ Les numéros de ports sont utilisés pour identifier les applications spécifiqu
 
 RAID (Redundant Array of Inexpensive Disks) est un système de stockage de données qui utilise plusieurs disques durs pour améliorer les performances et la sécurité des données
 
-PING,
-ipconfig, 
-tracert, 
-nslookup 
-expliquer chaque couche du modele osi, convertir une adresse ip en binaire, calculer des masques sous réseaux
+PING : est un outil de diagnostic de réseau qui permet de tester la connectivité entre deux ordinateurs en envoyant des paquets de données à un hôte et en mesurant le temps d'aller-retour.
+
+IPCONFIG : est un utilitaire en ligne de commande utilisé pour afficher les informations de configuration IP d'un ordinateur sous Windows.
+
+TRACERT : est un utilitaire en ligne de commande utilisé pour afficher le chemin suivi par les paquets de données à destination d'un hôte sur un réseau.
+
+NSLOOKUP : est un utilitaire en ligne de commande utilisé pour obtenir des informations sur les noms de domaine et les adresses IP, notamment les informations sur les serveurs DNS et les entrées dans les zones DNS.
+
+Convertir une adresse ip en binaire, calculer des masques sous réseaux
 
 Un proxy inverse est un type de serveur, habituellement placé en frontal de serveurs web. Contrairement au serveur proxy qui permet à un utilisateur d'accéder au réseau Internet, le proxy inverse permet à un utilisateur d'Internet d'accéder à des serveurs internes
 Un proxy est un serveur qui agit en tant qu'intermédiaire pour les demandes de clients en se faisant passer pour un autre serveur. Il est souvent utilisé pour filtrer les demandes et améliorer la sécurité.
@@ -33,7 +37,7 @@ Le routage Inter-VLAN est un processus qui permet de transférer du trafic rése
 
 WAN (Wide Area Network) est un terme générique désignant un réseau informatique qui couvre une grande zone géographique. On peut dire que Internet est un grand type de WAN
 
-Une adresse MAC (Media Access Control) est un identifiant unique de 48 bits assigné à chaque carte réseau.
+MAC (Media Access Control) est un identifiant unique de 48 bits assigné à chaque carte réseau.
 
 L'IP correspond à un numéro d'identification, qui est attribué à tout appareil connecté à un réseau informatique.
 
