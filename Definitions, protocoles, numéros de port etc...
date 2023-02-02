@@ -16,7 +16,7 @@ PING,
 ipconfig, 
 tracert, 
 nslookup 
-expliquer chaque couche du modele osi, convertir une adresse ip en binaire, calculer des masques sous réseaux à la con
+expliquer chaque couche du modele osi, convertir une adresse ip en binaire, calculer des masques sous réseaux
 
 Un proxy inverse est un type de serveur, habituellement placé en frontal de serveurs web. Contrairement au serveur proxy qui permet à un utilisateur d'accéder au réseau Internet, le proxy inverse permet à un utilisateur d'Internet d'accéder à des serveurs internes
 Un proxy est un serveur qui agit en tant qu'intermédiaire pour les demandes de clients en se faisant passer pour un autre serveur. Il est souvent utilisé pour filtrer les demandes et améliorer la sécurité.
@@ -28,6 +28,8 @@ Cela permet de limiter les risques de sécurité en cas de compromission d'un se
 Une LAN (Local Area Network) est un réseau local qui relie des ordinateurs et des dispositifs dans un même lieu physique.
 
 Un VLAN (Virtual LAN) est une méthode de segmentation de réseau qui permet de diviser un réseau physique en plusieurs réseaux virtuels logiques. 
+
+Le routage Inter-VLAN est un processus qui permet de transférer du trafic réseau d'un VLAN à un autre à l'aide d'un routeur
 
 WAN (Wide Area Network) est un terme générique désignant un réseau informatique qui couvre une grande zone géographique. On peut dire que Internet est un grand type de WAN
 
