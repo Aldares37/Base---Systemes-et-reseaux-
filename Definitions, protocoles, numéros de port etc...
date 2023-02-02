@@ -165,6 +165,7 @@ LDAP (Lightweight Directory Access Protocol) : port 389
 Kerberos : port 88
 NTP (Network Time Protocol) : port 123
 -
+Syslog : port 514
 RDP (Remote Desktop Protocol) : port 3389
 RSH (Remote Shell) : port 514
 SMB (Server Message Block) : port 445
@@ -176,16 +177,4 @@ RTP (Real-time Transport Protocol) : ports 16384-32767
 IPSec (Internet Protocol Security) : ports 500 et 4500
 PPTP (Point-to-Point Tunneling Protocol) : port 1723
 L2TP (Layer 2 Tunneling Protocol) : port 1701
--
-SOCKS : port 1080
-BitTorrent : port 6881-6889
-TFTP (Trivial File Transfer Protocol) : port 69
-NTP (Network Time Protocol) : port 123
-SCP (Secure Copy Protocol) : port 22
-RSYNC : port 873
-Syslog : port 514
-SMPP (Short Message Peer-to-Peer) : port 2775
-MySQL : port 3306
-PostgreSQL : port 5432
-MongoDB : port 27017
 -
