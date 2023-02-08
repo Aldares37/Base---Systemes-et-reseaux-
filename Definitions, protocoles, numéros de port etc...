@@ -10,6 +10,8 @@ Couche application : gère les interactions avec les applications réseau.
 
 Les numéros de ports sont utilisés pour identifier les applications spécifiques à la couche transport, comme le port 80 pour HTTP et le port 22 pour SSH.
 
+ACL (Access Control List) désigne en sécurité informatique  une liste des adresses et ports autorisés ou interdits par un pare-feu.
+
 RAID (Redundant Array of Inexpensive Disks) est un système de stockage de données qui utilise plusieurs disques durs pour améliorer les performances et la sécurité des données
 
 PING : est un outil de diagnostic de réseau qui permet de tester la connectivité entre deux ordinateurs en envoyant des paquets de données à un hôte et en mesurant le temps d'aller-retour.
