@@ -180,3 +180,10 @@ IPSec (Internet Protocol Security) : ports 500 et 4500
 PPTP (Point-to-Point Tunneling Protocol) : port 1723
 L2TP (Layer 2 Tunneling Protocol) : port 1701
 -
+SaaS (Software as a Service) : il s'agit d'un modèle où le fournisseur de services fournit des applications logicielles via internet. Les utilisateurs peuvent accéder à ces applications via un navigateur web et n'ont pas besoin de gérer l'infrastructure sous-jacente. Par exemple, Gmail est un service SaaS de Google où les utilisateurs peuvent accéder à leur messagerie via un navigateur web sans avoir à gérer l'infrastructure serveur.
+
+PaaS (Platform as a Service) : il s'agit d'un modèle où le fournisseur de services fournit une plateforme qui permet aux développeurs de déployer, d'exécuter et de gérer leurs applications sans avoir à gérer l'infrastructure sous-jacente. Par exemple, Heroku est une plateforme PaaS qui permet aux développeurs de déployer et de gérer leurs applications web.
+
+IaaS (Infrastructure as a Service) : il s'agit d'un modèle où le fournisseur de services fournit une infrastructure informatique, telle que des serveurs, des machines virtuelles et du stockage, via internet. Les utilisateurs peuvent déployer et gérer des applications sur cette infrastructure sans avoir à gérer l'infrastructure physique sous-jacente. Par exemple, Amazon Web Services (AWS) est un service IaaS où les utilisateurs peuvent déployer des instances de machines virtuelles et de stockage sur le cloud AWS.
+
+En résumé, SaaS est un modèle où le fournisseur de services fournit une application, PaaS est un modèle où le fournisseur de services fournit une plateforme de développement, et IaaS est un modèle où le fournisseur de services fournit une infrastructure informatique.
