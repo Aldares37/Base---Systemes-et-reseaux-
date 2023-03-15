@@ -41,9 +41,13 @@ WAN (Wide Area Network) est un terme générique désignant un réseau informati
 
 MAC (Media Access Control) est un identifiant unique de 48 bits assigné à chaque carte réseau.
 
+LLC (Logical Link Control): Permet le controle de la liaison logique et fiabilise le protocole MAC par un controle d'erreur et controle de flux
+
 L'IP correspond à un numéro d'identification, qui est attribué à tout appareil connecté à un réseau informatique.
 
 Le DHCP (Dynamic Host Configuration Protocol) est un protocole réseau dont le rôle est d’assurer la configuration automatique des paramètres IP
+
+VOIP : voice over internet protocole, le son est transformé en paquet de données
 
 Un VPN (Virtual Private Network) est un réseau privé virtuel qui permet de connecter des ordinateurs ou des réseaux distants de manière sécurisée.
 
