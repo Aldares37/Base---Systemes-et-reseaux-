@@ -6,7 +6,7 @@ Couche réseau : gère l'adressage et la routage des paquets de données. Les pr
 Couche de transport : gère la fiabilité de la transmission de données en garantissant la livraison des paquets. Les protocoles courants sont TCP (Transmission Control Protocol) et UDP (User Datagram Protocol).
 Couche session : gère la création, la gestion et la suppression des sessions de communication.
 Couche présentation : gère la conversion des données pour qu'elles soient compatibles entre les systèmes.
-Couche application : gère les interactions avec les applications réseau.
+Couche application : gère les interactions avec les applications réseau.  
 
 Les numéros de ports sont utilisés pour identifier les applications spécifiques à la couche transport, comme le port 80 pour HTTP et le port 22 pour SSH.
 
